@@ -1,4 +1,8 @@
-"""Central Limit Theorem demonstration using sums of uniform random variables.
+"""
+Central Limit Theorem
+=====================
+
+Central Limit Theorem demonstration using sums of uniform random variables.
 
 This example shows how adding together multiple independent uniform random
 variables produces a distribution that approaches a normal distribution.
