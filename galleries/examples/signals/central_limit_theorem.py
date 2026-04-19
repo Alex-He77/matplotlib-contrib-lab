@@ -29,3 +29,16 @@ for i, N in enumerate(N_values):
 
 plt.tight_layout()
 plt.show()
+
+References
+----------
+- matplotlib.pyplot.subplots
+- matplotlib.pyplot.hist
+- matplotlib.pyplot.set_xlabel
+- matplotlib.pyplot.set_ylabel
+- numpy.random.default_rng
+- numpy.ndarray.sum
+
+tags:
+- plot-type: histogram
+- level: beginner
